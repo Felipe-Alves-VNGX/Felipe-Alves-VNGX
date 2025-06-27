@@ -1,4 +1,4 @@
-<!-- Perfil GitHub README – substitua `<seu-usuario>` e outros placeholders conforme necessário -->
+<!-- Perfil GitHub README – substitua `Felipe-Alves-VNGX` e outros placeholders conforme necessário -->
 
 # 👋 Olá, eu sou Felipe Alves  
 
@@ -40,9 +40,9 @@ Especialista em **RPA** e **Python** que adora transformar processos longos em _
 
 ## 📈 Estatísticas GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<seu-usuario>&show_icons=true&theme=transparent" alt="Felipe's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Alves-VNGX&show_icons=true&theme=transparent" alt="Felipe's GitHub stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<seu-usuario>&theme=transparent" alt="Felipe's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Alves-VNGX&theme=transparent" alt="Felipe's GitHub streak">
 </p>
 
 ---
