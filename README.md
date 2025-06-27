@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Felipe Alves  
 
-Especialista em **RPA** e **Python** que adora transformar processos longos em _scripts curtos_ – e tomar um bom café enquanto tudo é automatizado. Atualmente ajudo empresas a ganharem centenas de horas livres ao criar bots robustos, APIs bem-documentadas e dashboards que contam histórias claras a partir de dados.:contentReference[oaicite:0]{index=0}  
+Especialista em **RPA** e **Python** que adora transformar processos longos em _scripts curtos_ – e tomar um bom café enquanto tudo é automatizado. Atualmente ajudo empresas a ganharem centenas de horas livres ao criar bots robustos, APIs bem-documentadas e dashboards que contam histórias claras a partir de dados.
 
 ---
 
