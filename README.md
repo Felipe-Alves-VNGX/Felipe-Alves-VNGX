@@ -48,8 +48,7 @@ Especialista em **RPA** e **Python** que adora transformar processos longos em _
 ---
 
 ## 📫 Contato  
-- ✉️ Email: **<seu-email>@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/felipe-dossantos-alves](https://linkedin.com/in/felipe-dossantos-alves)  
-- 🌐 Portfólio/Blog: _(adicione aqui se houver)_  
+- ✉️ Email: **fsa032003@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/felipe-dos-santos-alves-752b07217](https://linkedin.com/in/felipe-dos-santos-alves-752b07217)  
 
 _Sinta-se à vontade para abrir uma _issue_ ou dar um “Oi” – sempre respondo entre um `git commit` e outro!_  
