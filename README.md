@@ -29,10 +29,8 @@ Especialista em **RPA** e **Python** que adora transformar processos longos em _
 ## 💼 Experiências & Projetos  
 | Período | Função / Projeto | Impacto resumido |
 |---------|-----------------|------------------|
-| 2023-hoje | **Analista de Desenvolvimento Jr. – Grupo Via** | +20 bots RPA em produção, ↓ 75 % tempo manual, dashboards de KPIs em Power BI.:contentReference[oaicite:1]{index=1} |
-| 2022 | **Sistema de Relatórios Financeiros** | Pipeline ETL + alertas que cortaram 60 % do tempo de geração de relatórios. |
-| 2022 | **API de Integração CRM ↔ Faturamento** | Sincronização 100 % consistente via Flask + JWT + AWS EC2. |
-| 2021 | **Dashboard de Performance Comercial** | Visualizações interativas em Plotly que aumentaram em 25 % a conversão de leads. |
+| 2022-hoje | **Analista de Desenvolvimento Jr. – Grupo Via1** | +20 bots RPA em produção, ↓ 75 % tempo manual, dashboards de KPIs em Power BI. |
+
 
 > _“Código limpo reduz dívida técnica; automação reduz dívida de tempo.”_ – provavelmente alguém na minha sprint  
 
