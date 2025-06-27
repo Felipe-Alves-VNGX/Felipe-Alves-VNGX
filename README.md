@@ -9,10 +9,10 @@ Especialista em **RPA** e **Python** que adora transformar processos longos em _
 ## 🛠️ Tecnologias & Ferramentas  
 | Categoria | Stack favorita |
 |-----------|----------------|
-| **Automação** | Selenium, BeautifulSoup, Requests, Robocorp |
-| **Back-end & APIs** | Python (♥), Flask, FastAPI, Django, JWT |
+| **Automação** | Selenium, BeautifulSoup, Requests, n8n |
+| **Back-end & APIs** | Flask, FastAPI, Django, JWT |
 | **Dados & BI** | Pandas, Power BI, Plotly, SQL (PostgreSQL / MySQL) |
-| **DevOps & Cloud** | Docker + Compose, Jenkins, GitHub Actions, AWS (EC2, S3) |
+| **DevOps & Cloud** | Docker + Compose, Jenkins, AWS (EC2, S3) |
 | **Outros** | Git, Linux, Scrum/Kanban, CI/CD |
 
 ---
